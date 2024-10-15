@@ -1,16 +1,23 @@
-## Hi there 👋
+## Привет, меня зовут Мади
 
-<!--
-**MadiAbulkanov/MadiAbulkanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
 
-Here are some ideas to get you started:
+Я [краткое описание вашей профессии или интересов]. В настоящее время я работаю над [вашими проектами или навыками].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Мои навыки
+
+- Языки программирования: [список языков программирования]
+- Технологии: [список технологий]
+- Инструменты: [список инструментов]
+
+## Связаться со мной
+
+- [Email](ваш email)
+
+## Статистика
+
+![Ваши GitHub статистики](https://github-readme-stats.vercel.app/api?username=MadiAbulkanov&show_icons=true&theme=radical)
+
+## Последние коммиты
+
+![Последние коммиты](https://github-readme-streak-stats.herokuapp.com/?user=MadiAbulkanov&theme=radical)
