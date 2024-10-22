@@ -27,12 +27,15 @@
 
 <div align="center">
   
-[![Telegram](https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram)](https://t.me/Madi304)
-
-[![VK](https://img.shields.io/badge/VK-blue?&style=for-the-badge&logo=vk)](https://vk.com/abulkanov)
-
-<div>
-
+  <a href="https://t.me/Madi304">
+    <img src="https://img.shields.io/badge/Telegram-white?&style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
+  
+  <a href="https://vk.com/abulkanov">
+    <img src="https://img.shields.io/badge/VK-blue?&style=for-the-badge&logo=vk" alt="VK">
+  </a>
+  
+</div>
 
 
 
